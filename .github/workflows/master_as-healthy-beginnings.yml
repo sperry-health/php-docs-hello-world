@@ -56,5 +56,5 @@ jobs:
         with:
           app-name: 'as-healthy-beginnings'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_5E9354F031FB490C9DA6D37206441D7B }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_06500B4F259D4D39A5E3797649B1CEA3 }}
           package: .
